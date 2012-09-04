@@ -2,6 +2,7 @@ extends layout
 
 block content
     h1= title
-    each item in items
-        img(src="images/"+item)
+    div#receiveImg
+        each item in items
+            img(src="images/"+item)
 
