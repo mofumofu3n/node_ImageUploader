@@ -1,2 +1,6 @@
 public/images/*
+<<<<<<< HEAD
 node_module/*
+node_module/
+=======
+>>>>>>> b0dc26a... 画像をアップロードするとリアルタイムでPreviewページに表示されるように追加
